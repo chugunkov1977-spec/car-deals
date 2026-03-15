@@ -1,0 +1,147 @@
+{
+  "downloaded": [],
+  "failed": [
+    {
+      "key": "BMW_3_Series",
+      "error": "URL can't contain control characters. '/getimage?customer=hrjavascript-mastery&make=BMW&modelFamily=3 Series&modelYear=2019&angle=1' (found at least ' ')"
+    },
+    {
+      "key": "Changan_CS75_Plus",
+      "error": "URL can't contain control characters. '/getimage?customer=hrjavascript-mastery&make=Changan&modelFamily=CS75 Plus&modelYear=2023&angle=1' (found at least ' ')"
+    },
+    {
+      "key": "Chery_Tiggo_7_Pro",
+      "error": "URL can't contain control characters. '/getimage?customer=hrjavascript-mastery&make=Chery&modelFamily=Tiggo 7&modelYear=2023&angle=1' (found at least ' ')"
+    },
+    {
+      "key": "Chery_Tiggo_8_Pro",
+      "error": "URL can't contain control characters. '/getimage?customer=hrjavascript-mastery&make=Chery&modelFamily=Tiggo 8&modelYear=2022&angle=1' (found at least ' ')"
+    },
+    {
+      "key": "Hyundai_Santa_Fe",
+      "error": "URL can't contain control characters. '/getimage?customer=hrjavascript-mastery&make=Hyundai&modelFamily=Santa Fe&modelYear=2021&angle=1' (found at least ' ')"
+    },
+    {
+      "key": "Lada_Vesta_SW_Cross",
+      "error": "URL can't contain control characters. '/getimage?customer=hrjavascript-mastery&make=Lada&modelFamily=Vesta Cross&modelYear=2022&angle=1' (found at least ' ')"
+    },
+    {
+      "key": "Toyota_Land_Cruiser_Prado",
+      "error": "URL can't contain control characters. '/getimage?customer=hrjavascript-mastery&make=Toyota&modelFamily=Land Cruiser&modelYear=2018&angle=1' (found at least ' ')"
+    }
+  ],
+  "skipped": [
+    {
+      "key": "Audi_A4",
+      "reason": "already exists"
+    },
+    {
+      "key": "BMW_X3",
+      "reason": "already exists"
+    },
+    {
+      "key": "Exeed_TXL",
+      "reason": "already exists"
+    },
+    {
+      "key": "Geely_Coolray",
+      "reason": "already exists"
+    },
+    {
+      "key": "Haval_F7",
+      "reason": "already exists"
+    },
+    {
+      "key": "Haval_Jolion",
+      "reason": "already exists"
+    },
+    {
+      "key": "Hyundai_Creta",
+      "reason": "already exists"
+    },
+    {
+      "key": "Hyundai_Solaris",
+      "reason": "already exists"
+    },
+    {
+      "key": "Hyundai_Tucson",
+      "reason": "already exists"
+    },
+    {
+      "key": "Kia_Ceed",
+      "reason": "already exists"
+    },
+    {
+      "key": "Kia_K5",
+      "reason": "already exists"
+    },
+    {
+      "key": "Kia_Rio",
+      "reason": "already exists"
+    },
+    {
+      "key": "Kia_Sportage",
+      "reason": "already exists"
+    },
+    {
+      "key": "Lada_Granta",
+      "reason": "already exists"
+    },
+    {
+      "key": "Lada_Vesta",
+      "reason": "already exists"
+    },
+    {
+      "key": "Mazda_CX-5",
+      "reason": "already exists"
+    },
+    {
+      "key": "Mercedes-Benz_C-Class",
+      "reason": "already exists"
+    },
+    {
+      "key": "Mercedes-Benz_GLC",
+      "reason": "already exists"
+    },
+    {
+      "key": "Nissan_Qashqai",
+      "reason": "already exists"
+    },
+    {
+      "key": "Omoda_C5",
+      "reason": "already exists"
+    },
+    {
+      "key": "Renault_Duster",
+      "reason": "already exists"
+    },
+    {
+      "key": "Skoda_Kodiaq",
+      "reason": "already exists"
+    },
+    {
+      "key": "Skoda_Octavia",
+      "reason": "already exists"
+    },
+    {
+      "key": "Toyota_Camry",
+      "reason": "already exists"
+    },
+    {
+      "key": "Toyota_Corolla",
+      "reason": "already exists"
+    },
+    {
+      "key": "Toyota_RAV4",
+      "reason": "already exists"
+    },
+    {
+      "key": "Volkswagen_Polo",
+      "reason": "already exists"
+    },
+    {
+      "key": "Volkswagen_Tiguan",
+      "reason": "already exists"
+    }
+  ]
+}
