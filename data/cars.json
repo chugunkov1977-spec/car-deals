@@ -15,7 +15,7 @@
     "city": "Москва",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/toyota/camry/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg/640px-2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Toyota&modelFamily=Camry&modelYear=2020&angle=1",
     "date_added": "2026-03-14",
     "description": "Один владелец, полное ТО у дилера, без ДТП"
   },
@@ -35,7 +35,7 @@
     "city": "Санкт-Петербург",
     "source": "avito",
     "source_url": "https://www.avito.ru/rossiya/avtomobili/kia",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2020_Kia_Optima_EX_in_Gravity_Grey%2C_Front_Left%2C_10-19-2020.jpg/640px-2020_Kia_Optima_EX_in_Gravity_Grey%2C_Front_Left%2C_10-19-2020.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Kia&modelFamily=K5&modelYear=2022&angle=1",
     "date_added": "2026-03-13",
     "description": "GT-Line, панорамная крыша, камера 360"
   },
@@ -55,7 +55,7 @@
     "city": "Казань",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/hyundai/tucson/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hyundai_Tucson_NX4_Inspiration_2.0_CRDi_4WD_Shimmering_Silver_1X.jpg/640px-Hyundai_Tucson_NX4_Inspiration_2.0_CRDi_4WD_Shimmering_Silver_1X.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Hyundai&modelFamily=Tucson&modelYear=2021&angle=1",
     "date_added": "2026-03-14",
     "description": "Полный привод, гаражное хранение"
   },
@@ -75,7 +75,7 @@
     "city": "Москва",
     "source": "avito",
     "source_url": "https://www.avito.ru/rossiya/avtomobili/volkswagen",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/VW_Polo_VI_IMG_2838.jpg/640px-VW_Polo_VI_IMG_2838.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Volkswagen&modelFamily=Polo&modelYear=2021&angle=1",
     "date_added": "2026-03-12",
     "description": "Обслуживание у дилера, не бит не крашен"
   },
@@ -95,9 +95,9 @@
     "city": "Екатеринбург",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/skoda/octavia/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2020_Skoda_Octavia_SE_L_First_Edition_1.5_Front.jpg/640px-2020_Skoda_Octavia_SE_L_First_Edition_1.5_Front.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Skoda&modelFamily=Octavia&modelYear=2020&angle=1",
     "date_added": "2026-03-13",
-    "description": "Style, климат-контроль, мультимедиа 10\""
+    "description": "Style, климат-контроль, мультимедиа 10 дюймов"
   },
   {
     "id": "006",
@@ -115,7 +115,7 @@
     "city": "Новосибирск",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/toyota/rav4/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/2019_Toyota_RAV4_Adventure_in_Lunar_Rock%2C_Front_Left%2C_10-27-2020.jpg/640px-2019_Toyota_RAV4_Adventure_in_Lunar_Rock%2C_Front_Left%2C_10-27-2020.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Toyota&modelFamily=RAV4&modelYear=2019&angle=1",
     "date_added": "2026-03-11",
     "description": "Полный привод, все ТО по регламенту"
   },
@@ -135,7 +135,7 @@
     "city": "Краснодар",
     "source": "avito",
     "source_url": "https://www.avito.ru/rossiya/avtomobili/kia",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2020_Kia_Rio_%27S%27_facelift%2C_front_9.13.20.jpg/640px-2020_Kia_Rio_%27S%27_facelift%2C_front_9.13.20.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Kia&modelFamily=Rio&modelYear=2022&angle=1",
     "date_added": "2026-03-14",
     "description": "Первый владелец, на гарантии до 2027"
   },
@@ -155,7 +155,7 @@
     "city": "Москва",
     "source": "avito",
     "source_url": "https://www.avito.ru/rossiya/avtomobili/hyundai",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Hyundai_Accent_SE_sedan%2C_front_7.2.18.jpg/640px-2018_Hyundai_Accent_SE_sedan%2C_front_7.2.18.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Hyundai&modelFamily=Solaris&modelYear=2020&angle=1",
     "date_added": "2026-03-10",
     "description": "Механика, расход 7л/100км, идеальна для города"
   },
@@ -175,7 +175,7 @@
     "city": "Москва",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/bmw/3er/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2019_BMW_330i_M_Sport_automatic_2.0_Front.jpg/640px-2019_BMW_330i_M_Sport_automatic_2.0_Front.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=BMW&modelFamily=3 Series&modelYear=2019&angle=1",
     "date_added": "2026-03-14",
     "description": "G20, Sport Line, LED, кожа, без ДТП"
   },
@@ -195,7 +195,7 @@
     "city": "Санкт-Петербург",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/mercedes/c-klasse/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2019_Mercedes-Benz_C300_sedan%2C_front_6.28.19.jpg/640px-2019_Mercedes-Benz_C300_sedan%2C_front_6.28.19.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Mercedes-Benz&modelFamily=C-Class&modelYear=2018&angle=1",
     "date_added": "2026-03-13",
     "description": "W205, AMG пакет, панорама, Burmester"
   },
@@ -215,7 +215,7 @@
     "city": "Москва",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/toyota/camry/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-11-02%29_01.jpg/640px-2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-11-02%29_01.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Toyota&modelFamily=Camry&modelYear=2020&angle=1",
     "date_added": "2026-03-14",
     "description": "Prestige Safety, JBL, вентиляция сидений"
   },
@@ -235,7 +235,7 @@
     "city": "Тольятти",
     "source": "avito",
     "source_url": "https://www.avito.ru/rossiya/avtomobili/lada",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lada_Vesta_%28facelift%29_in_Saint-Petersburg.jpg/640px-Lada_Vesta_%28facelift%29_in_Saint-Petersburg.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Lada&modelFamily=Vesta&modelYear=2023&angle=1",
     "date_added": "2026-03-14",
     "description": "Vesta NG, вариатор, мультимедиа, камера"
   },
@@ -255,7 +255,7 @@
     "city": "Москва",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/chery/tiggo_7_pro/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Chery_Tiggo_7_Pro_%28facelift%29%2C_2023%2C_front.jpg/640px-Chery_Tiggo_7_Pro_%28facelift%29%2C_2023%2C_front.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Chery&modelFamily=Tiggo 7&modelYear=2023&angle=1",
     "date_added": "2026-03-13",
     "description": "Максималка, панорама, электронная приборка"
   },
@@ -275,7 +275,7 @@
     "city": "Нижний Новгород",
     "source": "avito",
     "source_url": "https://www.avito.ru/rossiya/avtomobili/haval",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Haval_Jolion_%28front%29%2C_Subang_Jaya.jpg/640px-Haval_Jolion_%28front%29%2C_Subang_Jaya.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Haval&modelFamily=Jolion&modelYear=2022&angle=1",
     "date_added": "2026-03-12",
     "description": "Comfort, обогрев руля, круиз-контроль"
   },
@@ -295,7 +295,7 @@
     "city": "Москва",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/volkswagen/tiguan/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2018_Volkswagen_Tiguan_SE_Navigation_TSi_1.4_Front.jpg/640px-2018_Volkswagen_Tiguan_SE_Navigation_TSi_1.4_Front.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Volkswagen&modelFamily=Tiguan&modelYear=2019&angle=1",
     "date_added": "2026-03-14",
     "description": "4Motion, Highline, кожа, 2 комплекта резины"
   },
@@ -315,7 +315,7 @@
     "city": "Москва",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/kia/sportage/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kia_Sportage_1.6_T-GDI_GT-Line_2WD_%28NQ5%29_%E2%80%93_f_30032022.jpg/640px-Kia_Sportage_1.6_T-GDI_GT-Line_2WD_%28NQ5%29_%E2%80%93_f_30032022.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Kia&modelFamily=Sportage&modelYear=2023&angle=1",
     "date_added": "2026-03-14",
     "description": "Новое поколение, Premium, полный привод"
   },
@@ -335,7 +335,7 @@
     "city": "Самара",
     "source": "avito",
     "source_url": "https://www.avito.ru/rossiya/avtomobili/skoda",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2017_Skoda_Kodiaq_SE_L_TDi_4X4_2.0_Front.jpg/640px-2017_Skoda_Kodiaq_SE_L_TDi_4X4_2.0_Front.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Skoda&modelFamily=Kodiaq&modelYear=2020&angle=1",
     "date_added": "2026-03-11",
     "description": "7 мест, Style, 4x4, семейная машина"
   },
@@ -355,7 +355,7 @@
     "city": "Ростов-на-Дону",
     "source": "avito",
     "source_url": "https://www.avito.ru/rossiya/avtomobili/toyota",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg/640px-2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Toyota&modelFamily=Camry&modelYear=2021&angle=1",
     "date_added": "2026-03-14",
     "description": "Один хозяин, не такси, все ТО по книжке"
   },
@@ -375,7 +375,7 @@
     "city": "Москва",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/geely/coolray/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Geely_Coolray_facelift_%28front%29%2C_Subang_Jaya.jpg/640px-Geely_Coolray_facelift_%28front%29%2C_Subang_Jaya.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Geely&modelFamily=Coolray&modelYear=2022&angle=1",
     "date_added": "2026-03-13",
     "description": "Flagship, панорама, доводчики, яркий цвет"
   },
@@ -395,7 +395,7 @@
     "city": "Воронеж",
     "source": "avito",
     "source_url": "https://www.avito.ru/rossiya/avtomobili/hyundai",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2022_Hyundai_Creta_%28Indonesia%29_front_view.jpg/640px-2022_Hyundai_Creta_%28Indonesia%29_front_view.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Hyundai&modelFamily=Creta&modelYear=2021&angle=1",
     "date_added": "2026-03-14",
     "description": "2.0, 6AT, Comfort+, отличное состояние"
   },
@@ -415,7 +415,7 @@
     "city": "Москва",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/audi/a4/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2019_Audi_A4_40_TFSI_S_Line_Front.jpg/640px-2019_Audi_A4_40_TFSI_S_Line_Front.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Audi&modelFamily=A4&modelYear=2019&angle=1",
     "date_added": "2026-03-14",
     "description": "S-Line, виртуальная приборка, LED оптика"
   },
@@ -435,7 +435,7 @@
     "city": "Москва",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/mazda/cx-5/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2017_Mazda_CX-5_%28KF%29_Maxx_2.0_wagon_%282018-11-02%29_01.jpg/640px-2017_Mazda_CX-5_%28KF%29_Maxx_2.0_wagon_%282018-11-02%29_01.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Mazda&modelFamily=CX-5&modelYear=2020&angle=1",
     "date_added": "2026-03-13",
     "description": "Supreme, BOSE, вентиляция, HUD"
   },
@@ -455,7 +455,7 @@
     "city": "Санкт-Петербург",
     "source": "avito",
     "source_url": "https://www.avito.ru/rossiya/avtomobili/nissan",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Nissan_Qashqai_J12_IMG_5765.jpg/640px-Nissan_Qashqai_J12_IMG_5765.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Nissan&modelFamily=Qashqai&modelYear=2021&angle=1",
     "date_added": "2026-03-14",
     "description": "SE+, ProPilot, камеры кругового обзора"
   },
@@ -475,7 +475,7 @@
     "city": "Волгоград",
     "source": "avito",
     "source_url": "https://www.avito.ru/rossiya/avtomobili/renault",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2019_Dacia_Duster_Comfort_SCe_1.0_Front.jpg/640px-2019_Dacia_Duster_Comfort_SCe_1.0_Front.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Renault&modelFamily=Duster&modelYear=2021&angle=1",
     "date_added": "2026-03-12",
     "description": "Дизель, полный привод, экономичный"
   },
@@ -495,7 +495,7 @@
     "city": "Москва",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/toyota/land_cruiser_prado/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2018_Toyota_Land_Cruiser_%28Prado%29_VX_%28GDJ150R%29_wagon_%282018-09-03%29_01.jpg/640px-2018_Toyota_Land_Cruiser_%28Prado%29_VX_%28GDJ150R%29_wagon_%282018-09-03%29_01.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Toyota&modelFamily=Land Cruiser&modelYear=2018&angle=1",
     "date_added": "2026-03-14",
     "description": "Дизель, рамный, 7 мест, Crawl Control"
   },
@@ -515,9 +515,9 @@
     "city": "Москва",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/changan/cs75_plus/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Changan_CS75_PLUS_%28facelift%29%2C_front_8.28.22.jpg/640px-Changan_CS75_PLUS_%28facelift%29%2C_front_8.28.22.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Changan&modelFamily=CS75 Plus&modelYear=2023&angle=1",
     "date_added": "2026-03-14",
-    "description": "Почти новый, максималка, 12.3\" экран"
+    "description": "Почти новый, максималка, 12.3 дюймов экран"
   },
   {
     "id": "027",
@@ -535,7 +535,7 @@
     "city": "Москва",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/bmw/x3/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/2018_BMW_X3_xDrive20d_SE_Automatic_2.0_Front.jpg/640px-2018_BMW_X3_xDrive20d_SE_Automatic_2.0_Front.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=BMW&modelFamily=X3&modelYear=2020&angle=1",
     "date_added": "2026-03-13",
     "description": "xDrive, M-пакет, панорама, harman/kardon"
   },
@@ -555,7 +555,7 @@
     "city": "Казань",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/hyundai/santa_fe/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hyundai_Santa_Fe_2.2_CRDi_4WD_Premium_%28IV%29_%E2%80%93_f_16032019.jpg/640px-Hyundai_Santa_Fe_2.2_CRDi_4WD_Premium_%28IV%29_%E2%80%93_f_16032019.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Hyundai&modelFamily=Santa Fe&modelYear=2021&angle=1",
     "date_added": "2026-03-14",
     "description": "7 мест, полный привод, кожа наппа"
   },
@@ -575,7 +575,7 @@
     "city": "Екатеринбург",
     "source": "avito",
     "source_url": "https://www.avito.ru/rossiya/avtomobili/kia",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2019_Kia_Ceed_%22First_Edition%22_CRDi_1.6_Front.jpg/640px-2019_Kia_Ceed_%22First_Edition%22_CRDi_1.6_Front.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Kia&modelFamily=Ceed&modelYear=2021&angle=1",
     "date_added": "2026-03-12",
     "description": "Prestige, полный фарш, идеальное состояние"
   },
@@ -595,7 +595,7 @@
     "city": "Челябинск",
     "source": "avito",
     "source_url": "https://www.avito.ru/rossiya/avtomobili/lada",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lada_Granta_I_Restyling_sedan.jpg/640px-Lada_Granta_I_Restyling_sedan.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Lada&modelFamily=Granta&modelYear=2022&angle=1",
     "date_added": "2026-03-14",
     "description": "Автомат, кондиционер, самая доступная"
   },
@@ -615,7 +615,7 @@
     "city": "Москва",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/mercedes/glc-klasse/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/2019_Mercedes-Benz_GLC_300_4MATIC%2C_front_11.22.19.jpg/640px-2019_Mercedes-Benz_GLC_300_4MATIC%2C_front_11.22.19.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Mercedes-Benz&modelFamily=GLC&modelYear=2019&angle=1",
     "date_added": "2026-03-13",
     "description": "4MATIC, AMG Line, панорама, Burmester"
   },
@@ -635,7 +635,7 @@
     "city": "Москва",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/omoda/c5/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Omoda_C5%2C_front_8.6.23.jpg/640px-Omoda_C5%2C_front_8.6.23.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Omoda&modelFamily=C5&modelYear=2024&angle=1",
     "date_added": "2026-03-14",
     "description": "Практически новый, топовая комплектация"
   },
@@ -655,7 +655,7 @@
     "city": "Ростов-на-Дону",
     "source": "avito",
     "source_url": "https://www.avito.ru/rossiya/avtomobili/volkswagen",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/VW_Polo_VI_IMG_2838.jpg/640px-VW_Polo_VI_IMG_2838.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Volkswagen&modelFamily=Polo&modelYear=2020&angle=1",
     "date_added": "2026-03-13",
     "description": "Один хозяин, не такси, ТО по регламенту"
   },
@@ -675,7 +675,7 @@
     "city": "Новосибирск",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/toyota/corolla/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2019_Toyota_Corolla_Design_VVT-i_HEV_1.8_Front.jpg/640px-2019_Toyota_Corolla_Design_VVT-i_HEV_1.8_Front.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Toyota&modelFamily=Corolla&modelYear=2020&angle=1",
     "date_added": "2026-03-14",
     "description": "Elegance, Safety Sense, LED, надёжность"
   },
@@ -695,7 +695,7 @@
     "city": "Москва",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/chery/tiggo_8_pro/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chery_Tiggo_8_Pro_Max_%28front%29%2C_Subang_Jaya.jpg/640px-Chery_Tiggo_8_Pro_Max_%28front%29%2C_Subang_Jaya.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Chery&modelFamily=Tiggo 8&modelYear=2022&angle=1",
     "date_added": "2026-03-13",
     "description": "7 мест, 2.0T, панорама, электро-дверь"
   },
@@ -715,7 +715,7 @@
     "city": "Москва",
     "source": "avito",
     "source_url": "https://www.avito.ru/rossiya/avtomobili/kia",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2020_Kia_Rio_%27S%27_facelift%2C_front_9.13.20.jpg/640px-2020_Kia_Rio_%27S%27_facelift%2C_front_9.13.20.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Kia&modelFamily=Rio&modelYear=2020&angle=1",
     "date_added": "2026-03-14",
     "description": "Престиж, 1.6 AT, надёжная городская машина"
   },
@@ -735,7 +735,7 @@
     "city": "Тула",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/haval/f7/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Haval_F7_%28front%29%2C_Subang_Jaya.jpg/640px-Haval_F7_%28front%29%2C_Subang_Jaya.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Haval&modelFamily=F7&modelYear=2021&angle=1",
     "date_added": "2026-03-12",
     "description": "Полный привод, 2.0T, хорошая динамика"
   },
@@ -755,7 +755,7 @@
     "city": "Краснодар",
     "source": "avito",
     "source_url": "https://www.avito.ru/rossiya/avtomobili/hyundai",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Hyundai_Accent_SE_sedan%2C_front_7.2.18.jpg/640px-2018_Hyundai_Accent_SE_sedan%2C_front_7.2.18.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Hyundai&modelFamily=Solaris&modelYear=2021&angle=1",
     "date_added": "2026-03-14",
     "description": "Автомат, кондиционер, один хозяин"
   },
@@ -775,7 +775,7 @@
     "city": "Москва",
     "source": "auto.ru",
     "source_url": "https://auto.ru/cars/used/sale/exeed/txl/",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Exeed_TXL_%28front%29%2C_Subang_Jaya.jpg/640px-Exeed_TXL_%28front%29%2C_Subang_Jaya.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Exeed&modelFamily=TXL&modelYear=2023&angle=1",
     "date_added": "2026-03-14",
     "description": "Premium, воздушная подвеска, HUD, массаж"
   },
@@ -795,7 +795,7 @@
     "city": "Уфа",
     "source": "avito",
     "source_url": "https://www.avito.ru/rossiya/avtomobili/lada",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lada_Vesta_%28facelift%29_in_Saint-Petersburg.jpg/640px-Lada_Vesta_%28facelift%29_in_Saint-Petersburg.jpg",
+    "image": "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&make=Lada&modelFamily=Vesta Cross&modelYear=2022&angle=1",
     "date_added": "2026-03-13",
     "description": "SW Cross, увеличенный клиренс, вместительный"
   }
