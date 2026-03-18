@@ -1,0 +1,35 @@
+Toyota	Camry	Toyota Camry	https://upload.wikimedia.org/wikipedia/commons/a/ac/2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg
+Kia	K5	Kia K5	https://upload.wikimedia.org/wikipedia/commons/f/ff/2022_Kia_K5_GT-Line_in_Pacific_Blue%2C_Front_Left%2C_09-05-2022.jpg
+Hyundai	Tucson	Hyundai Tucson	https://upload.wikimedia.org/wikipedia/commons/c/c6/2022_Hyundai_Tucson_Preferred%2C_Front_Right%2C_05-24-2021.jpg
+Volkswagen	Polo	Volkswagen Polo	https://upload.wikimedia.org/wikipedia/commons/7/79/VW_Polo_beats_%28VI%29_%E2%80%93_f_03032019.jpg
+Skoda	Octavia	Škoda Octavia	https://upload.wikimedia.org/wikipedia/commons/8/8a/2024_Skoda_Octavia_110TSI_Select_front.jpg
+Toyota	RAV4	Toyota RAV4	https://upload.wikimedia.org/wikipedia/commons/6/62/Toyota_RAV4_XLE_%28facelift%29_%28front%29.jpg
+Kia	Rio	Kia Rio	https://upload.wikimedia.org/wikipedia/commons/c/c4/2021_Kia_Rio_3_MHEV_facelift_1.0.jpg
+Hyundai	Solaris	Hyundai Accent	https://upload.wikimedia.org/wikipedia/commons/9/9d/2019_Hyundai_Accent_1.6L%2C_front_10.8.19.jpg
+BMW	3 Series	BMW 3 Series	https://upload.wikimedia.org/wikipedia/commons/9/91/BMW_G20_%282022%29_IMG_7316_%282%29.jpg
+Mercedes-Benz	C-Class	Mercedes-Benz C-Class	https://upload.wikimedia.org/wikipedia/commons/b/be/Mercedes-Benz_W206_IMG_6380.jpg
+Lada	Vesta	Lada Vesta	https://upload.wikimedia.org/wikipedia/commons/8/8d/2024_Lada_Vesta_sedan_white_front.jpg
+Chery	Tiggo 7 Pro	Chery Tiggo	https://upload.wikimedia.org/wikipedia/commons/9/9c/2005_Chery_Tiggo_1.6_%28front%29.jpg
+Haval	Jolion	Haval Jolion	https://upload.wikimedia.org/wikipedia/commons/a/ac/2020_Great_Wall_Haval_Jolion_%28front%29.jpg
+Volkswagen	Tiguan	Volkswagen Tiguan	https://upload.wikimedia.org/wikipedia/commons/5/50/VW_Tiguan_1.5_eTSI_R-Line_%28III%29_%E2%80%93_f_18052025.jpg
+Kia	Sportage	Kia Sportage	https://upload.wikimedia.org/wikipedia/commons/5/5d/2025_Kia_Sportage_S_front_only.jpg
+Skoda	Kodiaq	Škoda Kodiaq	https://upload.wikimedia.org/wikipedia/commons/2/27/Skoda_Kodiaq_Facelift_IMG_6636.jpg
+Geely	Coolray	Geely Emgrand	https://upload.wikimedia.org/wikipedia/commons/1/14/Moscow%2C_Geely_Emgrand_%282nd_gen%29_Aug_2025_01_%28cropped%29.jpg
+Hyundai	Creta	Hyundai Creta	https://upload.wikimedia.org/wikipedia/commons/2/25/2022_Hyundai_Creta_1.6_Plus_%28Chile%29_front_view.jpg
+Audi	A4	Audi A4	https://upload.wikimedia.org/wikipedia/commons/3/35/Audi_A4_B9_sedans_%28FL%29_1X7A2441.jpg
+Mazda	CX-5	Mazda CX-5	https://upload.wikimedia.org/wikipedia/commons/a/a5/2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg
+Nissan	Qashqai	Nissan Qashqai	https://upload.wikimedia.org/wikipedia/commons/d/dc/2024_Nissan_Qashqai_e-Power_IMG_2187.jpg
+Renault	Duster	Dacia Duster	https://upload.wikimedia.org/wikipedia/commons/a/ab/Dacia_Duster_TCe_130_Extreme_%28III%29_%E2%80%93_f_13102024.jpg
+Toyota	Land Cruiser Prado	Toyota Land Cruiser Prado	https://upload.wikimedia.org/wikipedia/commons/e/e8/2024_Toyota_Land_Cruiser_250_VX_in_Platinum_White_Pearl_Mica%2C_front_left.jpg
+Changan	CS75 Plus	Changan CS75	https://upload.wikimedia.org/wikipedia/commons/2/2f/Changan_CS75_Plus_IV_001.jpg
+BMW	X3	BMW X3	https://upload.wikimedia.org/wikipedia/commons/7/72/BMW_G45_20_IMG_3794.jpg
+Hyundai	Santa Fe	Hyundai Santa Fe	https://upload.wikimedia.org/wikipedia/commons/e/e6/2024_Hyundai_Santa_Fe_Luxury_AWD_in_Hampton_Grey%2C_front_left%2C_2024-06-30.jpg
+Kia	Ceed	Kia Ceed	https://upload.wikimedia.org/wikipedia/commons/c/c6/2018_Kia_Ceed_First_Edition_1.4_Front.jpg
+Lada	Granta	Lada Granta	https://upload.wikimedia.org/wikipedia/commons/6/6f/Lada_Granta_%282018_facelift%29_in_Tomsk_01_%28cropped%29.jpg
+Mercedes-Benz	GLC	Mercedes-Benz GLC	https://upload.wikimedia.org/wikipedia/commons/2/2c/Mercedes-Benz_X254_1X7A6343.jpg
+Omoda	C5	Omoda C5	https://upload.wikimedia.org/wikipedia/commons/4/43/2023_Omoda_C5_front_view.png
+Toyota	Corolla	Toyota Corolla	https://upload.wikimedia.org/wikipedia/commons/f/fe/Toyota_Corolla_Hybrid_%28E210%29_IMG_4338.jpg
+Chery	Tiggo 8 Pro	Chery Tiggo 8	https://upload.wikimedia.org/wikipedia/commons/3/37/Chery_Tiggo_8_Plus_018_%28cropped%29.jpg
+Haval	F7	Haval F7	https://upload.wikimedia.org/wikipedia/commons/9/96/Haval_F7_IMG001.jpg
+Exeed	TXL	Exeed TX	https://upload.wikimedia.org/wikipedia/commons/f/fc/2019_Exeed_TXL_%28front%29.jpg
+Lada	Vesta SW Cross	Lada Vesta	https://upload.wikimedia.org/wikipedia/commons/8/8d/2024_Lada_Vesta_sedan_white_front.jpg
